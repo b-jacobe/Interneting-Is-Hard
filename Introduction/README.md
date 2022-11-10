@@ -10,8 +10,6 @@ This section captures a subjective view of the important topics discussed in the
 • CSS is for formatting that marked up content
 • JavaScript is for making that content and formatting interactive.
 ![HTML-CSS-JavaScript](https://www.internetingishard.com/html-and-css/introduction/html-css-javascript-905348.png)
-<sup>["HTML, CSS, & JavaScript", by InternetingIsHard.com](https://www.internetingishard.com)</sup>
-#### Languages vs. "Web Development"
 Learning HTML, CSS, and JavaScript is only a prerequisite for becoming a professional developer. There are more practical skills that you need.
 • Organizing HTML into reusable templates
 • Standing up a web server
@@ -26,5 +24,5 @@ There are all sorts of front-end web development frameworks out there (React, Vu
 It is important to write code in a text editor. This topic is subjective and recommends ATOM. It's user friendly for beginners but my personal choice is VSCode.
 
 ###### Sources
-<sup>Logo - ["Interneting Is Hard Logo", by InternetingIsHard.com](https://www.internetingishard.com)</sup>
-<sup>HTML, CSS, & JavaScript - ["Interneting Is Hard Logo", by InternetingIsHard.com](https://www.internetingishard.com)</sup>
+- <sup>Logo - ["Interneting Is Hard Logo", by InternetingIsHard.com](https://www.internetingishard.com)</sup>
+- <sup>HTML, CSS, & JavaScript - ["Interneting Is Hard Logo", by InternetingIsHard.com](https://www.internetingishard.com)</sup>
