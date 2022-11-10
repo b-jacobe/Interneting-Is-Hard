@@ -19,5 +19,5 @@ A friendly web development tutorial for complete beginners.
 - [ ] Forms
 - [ ] Web Typography
 
-###### References
+###### Sources
 <sup>["Interneting Is Hard Logo", by InternetingIsHard.com](https://www.internetingishard.com)</sup>
