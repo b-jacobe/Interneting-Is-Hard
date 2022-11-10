@@ -24,3 +24,7 @@ Learning HTML and CSS is a matter of understanding the available HTML markup and
 There are all sorts of front-end web development frameworks out there (React, Vue, Bootstrap, just to name a few). The goal of every single one of them is to abstract away some of the redundant aspects of creating web pages from scratch.
 ### Tools of the Trade
 It is important to write code in a text editor. This topic is subjective and recommends ATOM. It's user friendly for beginners but my personal choice is VSCode.
+
+###### Sources
+<sup>Logo - ["Interneting Is Hard Logo", by InternetingIsHard.com](https://www.internetingishard.com)</sup>
+<sup>HTML, CSS, & JavaScript - ["Interneting Is Hard Logo", by InternetingIsHard.com](https://www.internetingishard.com)</sup>
