@@ -10,7 +10,7 @@ This section captures a subjective view of the important topics discussed in the
 • CSS is for formatting that marked up content
 • JavaScript is for making that content and formatting interactive.
 ![HTML-CSS-JavaScript](https://www.internetingishard.com/html-and-css/introduction/html-css-javascript-905348.png)
-<sup>(https://www.internetingishard.com)</sup>
+<sup>["HTML, CSS, & JavaScript", by Oliver James](https://www.internetingishard.com)</sup>
 #### Languages vs. "Web Development"
 Learning HTML, CSS, and JavaScript is only a prerequisite for becoming a professional developer. There are more practical skills that you need.
 • Organizing HTML into reusable templates
