@@ -1,4 +1,5 @@
 ![Interneting Is Hard](https://www.internetingishard.com/img/interneting-is-hard-logo-97b225.svg)
+
 <sup>["Interneting Is Hard Logo", by InternetingIsHard.com](https://www.internetingishard.com)</sup>
 # Interneting Is Hard 
 ### [But it doesn't have to be...]
