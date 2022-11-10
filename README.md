@@ -20,4 +20,5 @@ A friendly web development tutorial for complete beginners.
 - [ ] Web Typography
 
 ###### Sources
-- <sup>Logo - ["Interneting Is Hard Logo", by InternetingIsHard.com](https://www.internetingishard.com)</sup>
+- <sup>Main Logo - ["Interneting Is Hard Logo", by InternetingIsHard.com](https://www.internetingishard.com)</sup>
+- <sup>Text - ["Outline Material", by InternetingIsHard.com](https://www.internetingishard.com)</sup>

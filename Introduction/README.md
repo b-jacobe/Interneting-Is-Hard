@@ -24,5 +24,6 @@ There are all sorts of front-end web development frameworks out there (React, Vu
 It is important to write code in a text editor. This topic is subjective and recommends ATOM. It's user friendly for beginners but my personal choice is VSCode.
 
 ###### Sources
-- <sup>Logo - ["Interneting Is Hard Logo", by InternetingIsHard.com](https://www.internetingishard.com)</sup>
-- <sup>HTML, CSS, & JavaScript - ["Interneting Is Hard Logo", by InternetingIsHard.com](https://www.internetingishard.com)</sup>
+- <sup>Main Logo - ["Interneting Is Hard Logo", by InternetingIsHard.com](https://www.internetingishard.com)</sup>
+- <sup>HTML, CSS, & JavaScript Image - ["Interneting Is Hard Logo", by InternetingIsHard.com](https://www.internetingishard.com)</sup>
+- <sup>Text - ["Introduction Materia", by InternetingIsHard.com](https://www.internetingishard.com)</sup>
