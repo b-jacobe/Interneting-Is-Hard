@@ -1,7 +1,7 @@
 ![Interneting Is Hard](https://www.internetingishard.com/img/interneting-is-hard-logo-97b225.svg)
 # Interneting Is Hard 
 ### [But it doesn't have to be...]
-A friendly web development tutorial for complete beginners.
+A friendly web development HTML/CSS tutorial for complete beginners.
 
 ## This repo contains the files made while learning the HTML / CSS fundamentals on [Interneting Is Hard](https://internetingishard.com)
 - [ ] Introduction
